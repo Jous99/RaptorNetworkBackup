@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=RaptorCitrus
+GenericName=Switch Emulator
+Comment=Nintendo Switch video game console emulator
+Icon=citrus
+TryExec=RaptorCitrus
+Exec=RaptorCitrus %f
+Categories=Game;Emulator;Qt;
+Keywords=Switch;Nintendo;
